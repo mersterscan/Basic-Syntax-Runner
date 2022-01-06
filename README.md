@@ -1,7 +1,5 @@
 # Basic-Syntax-Runner
-A Basic Command Prompt
-# MTAConfiger
-MTA:SA Server Configer.
+A Basic Command Prompt.
 <h1 align="center">Hi 👋, I'm Alireza <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
 # A Python Developer Boy
